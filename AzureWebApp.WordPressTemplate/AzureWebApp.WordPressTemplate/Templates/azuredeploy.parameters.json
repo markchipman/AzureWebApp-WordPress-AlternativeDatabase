@@ -1,0 +1,25 @@
+﻿{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hostingPlanName": {
+      "value": ""
+    },
+    "databaseUsername": {
+      "value": ""
+    },
+    "databasePassword": {
+      "value": ""
+    },
+    "databaseServerName": {
+      "value": ""
+    },
+    "databaseName": {
+      "value": ""
+    },
+    "sku": {
+      "value": "Standard"
+    }
+  }
+}
+
